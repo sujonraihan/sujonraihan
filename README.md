@@ -10,7 +10,7 @@ I’m an experienced **System & Storage Administrator** with over **14 years** o
   Supporting:
   - **Qvantel Bangladesh Limited** (Sep 2024 – Present)  
   - **LM Ericsson Bangladesh** (Mar 2023 – Sep 2024)
-- 🧩 Designation: **Lead Support Engineer (Systems, Virtualization, SAN Storage & Backup)**
+- 🧩 Designation: **Lead Operation Engineer (Systems, Virtualization, SAN Storage & Backup)**
 - 📍 Based in **Dhaka, Bangladesh**
 - 📧 Email: [sujon.raihan@gmail.com](mailto:sujon.raihan@gmail.com)
 - 📞 Phone: +880 1726-909909  
@@ -30,10 +30,9 @@ I’m an experienced **System & Storage Administrator** with over **14 years** o
 
 ## 🏗️ Professional Experience
 
-### **LanceSoft Bangladesh**  
-**Lead Support Engineer (Systems, Virtualization, SAN Storage & Backup)**  
+### **Qvantel Bangladesh Ltd**  
+**Lead Operation Engineer (Systems, Virtualization, SAN Storage & Backup)**  
 📅 March 2023 – Present  
-**Clients:** Qvantel Bangladesh Ltd, LM Ericsson Bangladesh  
 
 **Key Responsibilities:**
 - Manage and administer enterprise SAN and backup environments (HPE 3PAR, RMC, StoreOnce, DellEMC VNX).  
@@ -99,6 +98,44 @@ I’m an experienced **System & Storage Administrator** with over **14 years** o
 | **SAN Fabric** | Zoning, ISL, FCoE, Trunking |
 | **Monitoring** | Nagios, Pandora, Zabbix, Wazuh, Foreman |
 | **Hardware** | IBM BladeCenter, Dell PowerEdge, HPE DL Series, Synergy |
+
+---
+
+## 🏗️ Projects & Implementations
+
+### 🧩 **VMware Infrastructure Modernization**
+- Migrated large-scale **vCenter & ESXi** environments from **6.5 to 7.x** including vDS migration.  
+- Configured **vMotion**, **HA**, and **DRS** clusters for improved uptime and resource efficiency.  
+- Integrated **vSAN storage** and optimized datastore performance.
+
+### 💾 **HPE 3PAR & Primera Storage Expansion**
+- Designed and implemented multi-tier storage solutions (SSD + SAS).  
+- Configured **Virtual Volumes, CPGs, and Adaptive Optimization policies** for performance tuning.  
+- Coordinated **firmware upgrades** and **RMC integration** for snapshot-based backup automation.
+
+### 🖥️ **Data Center to DR Sync (Banking Sector)**
+- Implemented **Database + File-level + DC-DR replication** using IBM TSM and HPE StoreOnce.  
+- Ensured compliance with **SOX** backup policies and retention standards.  
+- Designed **backup verification and audit reporting** systems.
+
+### 🔄 **Unix/Linux OS Upgrade Automation**
+- Automated **CentOS 7 → OEL 8** and **RHEL 7/8 → RHEL 9** upgrades across multiple environments.  
+- Streamlined deployment using **Ansible**, reducing manual errors and downtime.
+
+### 🧰 **Enterprise Monitoring Stack Deployment**
+- Deployed and customized **Zabbix, Nagios, Pandora, and Wazuh** for unified monitoring.  
+- Integrated alert automation and dashboard visualization for critical systems.
+
+---
+
+## 🖥️ Core Competencies
+- **System Administration:** Linux, CentOS, Oracle Linux, AIX, Solaris  
+- **Virtualization:** VMware (vCenter, ESXi, vMotion, HA, vDS), Ovirt, Proxmox  
+- **Enterprise Storage:** IBM, HPE, DellEMC, NetApp  
+- **Backup & DR:** IBM TSM, Veeam, HPE RMC, StoreOnce, Symantec  
+- **SAN Fabric:** Zoning, ISL Trunking, FCoE, MPLS  
+- **Server Hardware:** IBM System-x, Dell PowerEdge, HPE DL Series, Synergy  
+- **Monitoring & Tools:** Nagios, Zabbix, Pandora, Wazuh, Foreman  
 
 ---
 
