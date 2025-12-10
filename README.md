@@ -13,7 +13,7 @@ I’m an experienced **System & Storage Administrator** with over **14 years** o
 - 🧩 Designation: **Lead Operation Engineer (Systems, Virtualization, SAN Storage & Backup)**
 - 📍 Based in **Dhaka, Bangladesh**
 - 📧 Email: Personal [sujon.raihan@gmail.com](mailto:sujon.raihan@gmail.com)
--           Official [sujon.raihan@qvantel.com](mailto:sujon.raihan@qvantel.com)
+-           Official sujon.raihan@qvantel.com
 - 📞 Phone: +880 1726-909909  
 
 ---
