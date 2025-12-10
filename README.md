@@ -12,7 +12,8 @@ I’m an experienced **System & Storage Administrator** with over **14 years** o
   - **LM Ericsson Bangladesh** (Mar 2023 – Sep 2024)
 - 🧩 Designation: **Lead Operation Engineer (Systems, Virtualization, SAN Storage & Backup)**
 - 📍 Based in **Dhaka, Bangladesh**
-- 📧 Email: [sujon.raihan@gmail.com](mailto:sujon.raihan@gmail.com)
+- 📧 Email: Personal [sujon.raihan@gmail.com](mailto:sujon.raihan@gmail.com)
+-           Official [sujon.raihan@qvantel.com](mailto:sujon.raihan@qvantel.com)
 - 📞 Phone: +880 1726-909909  
 
 ---
